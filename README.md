@@ -3,7 +3,7 @@
 💻 **Pranata Komputer – Kementerian Keuangan RI**  
 🚀 Full-Stack Developer | Web Application Engineer
 
-Saya adalah **Pranata Komputer** yang bekerja di lingkungan **pemerintahan (Kementerian Keuangan)** dengan fokus pada **pengembangan aplikasi web**, sistem informasi, dan solusi digital yang terstruktur, aman, dan berkelanjutan.
+Saya adalah **Pranata Komputer** yang bekerja di lingkungan **pemerintahan** dengan fokus pada **pengembangan aplikasi web**, sistem informasi, dan solusi digital yang terstruktur, aman, dan berkelanjutan.
 
 Berpengalaman membangun aplikasi **internal pemerintahan** maupun **proyek freelance**, mulai dari sistem data, dashboard monitoring, hingga landing page.
 
