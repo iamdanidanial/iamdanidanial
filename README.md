@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dani Danial
 
-💻 **Pranata Komputer – Kementerian Keuangan RI**  
+💻 **Pranata Komputer**  
 🚀 Full-Stack Developer | Web Application Engineer
 
 Saya adalah **Pranata Komputer** yang bekerja di lingkungan **pemerintahan** dengan fokus pada **pengembangan aplikasi web**, sistem informasi, dan solusi digital yang terstruktur, aman, dan berkelanjutan.
