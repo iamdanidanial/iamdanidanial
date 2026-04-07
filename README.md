@@ -72,8 +72,8 @@ Saya percaya aplikasi yang baik adalah aplikasi yang:
 
 ## 📫 Contact & Collaboration
 
-- 💼 GitHub: `github.com/username`
-- 📧 Email: your.email@example.com  
+- 💼 GitHub: `github.com/iamdanidanial`
+- 📧 Email: 
 - 🤝 Open for collaboration & freelance (outside working hours)
 
 ---
